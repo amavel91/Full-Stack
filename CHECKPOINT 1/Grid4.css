@@ -1,0 +1,11 @@
+
+.gridFour {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    width: 500px;
+    background-color: green;
+}
+#river {
+display: grid;
+grid-template-columns: 1fr 1fr;
+}
