@@ -176,7 +176,7 @@ Existen varios tipos de APIs, pero algunas de las más comunes son:
 - **APIs abiertas**: Pueden ser usadas por cualquier persona. También se conocen como *public APIs*.
 - **APIs privadas**: Son internas y solo pueden ser usadas dentro de una empresa.
 
-### 5.2. ¿Para qué sirve una API?
+### 5.1. ¿Para qué sirve una API?
 
 Las APIs se usan para:
 
@@ -186,7 +186,7 @@ Las APIs se usan para:
 
 Por ejemplo, una API de clima permite que una app muestre el tiempo actual sin tener que medirlo por su cuenta. Solo pide los datos al servicio del clima mediante una API (Red Hat, s.f.).
 
-### 5.3. ¿Cómo funciona una API?
+### 5.2. ¿Cómo funciona una API?
 
 Cuando una aplicación quiere acceder a información o realizar una acción, hace una **solicitud** a la API. Luego, la API responde con los datos pedidos o una confirmación. Este intercambio se realiza con mensajes muy estructurados, casi siempre en formato JSON.
 
@@ -374,7 +374,7 @@ Los decoradores son muy útiles cuando se necesita repetir cierta lógica en var
 
 Un decorador en Python es una forma elegante de cambiar o ampliar el comportamiento de una función sin modificar su código. Esto permite crear código más limpio, reutilizable y organizado. Por eso, los decoradores se usan mucho en proyectos grandes y en el desarrollo profesional (Platzi, 2024; Código Facilito, s.f.).
 
-## Bibliografía
+## X. Bibliografía
 
 - Ionos. (s.f.). *Clases en Python: definición y ejemplos*. Recuperado el 2 de abril de 2025, de https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/python-classes  
 - Python.org. (s.f.). *7. Clases*. Recuperado el 2 de abril de 2025, de https://docs.python.org/es/3.10/tutorial/classes.html
